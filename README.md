@@ -9,6 +9,13 @@ This project showcases a modern guestbook application with real-time updates and
 - **HTMX**: For seamless AJAX requests and dynamic updates.
 - **Supabase**: A backend-as-a-service providing database storage and management.
 
+- Demo Video
+- 
+
+https://github.com/user-attachments/assets/ea138446-0f7d-4446-82da-8fa5f48a8f43
+
+
+
 ## ✨ Features
 
 - **Real-time updates**: See new messages as they are posted.
