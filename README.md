@@ -67,11 +67,6 @@ Contributions are welcome! If you have any ideas for improvements or find any bu
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## 🙏 Acknowledgements
-
-- Inspired by the original FastHTML Guestbook.
-- Thanks to the developers of FastHTML, HTMX, and Supabase for their amazing tools.
-
 ## 📬 Contact
 
 For feedback, suggestions, or collaboration opportunities, reach out at mpkaranpatel01018@gmail.com.
