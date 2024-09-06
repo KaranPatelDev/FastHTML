@@ -70,7 +70,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## 📬 Contact
 
 For feedback, suggestions, or collaboration opportunities, reach out at mpkaranpatel01018@gmail.com.
-
----
-
-Thank you for checking out the Guestbook project! We hope you enjoy using it as much as we enjoyed building it. 😊
